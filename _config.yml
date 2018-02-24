@@ -1,10 +1,10 @@
 # Permalinks
-permalink:           pretty
+permalink:           Ben Levine
 
 # Setup
-title:               Jami Gibbs
-tagline:             Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Benjamin M. Levine
+tagline:             Computational Social Scientist
+url:                 https://blevined.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Benjamin M. Levine
+  url:               https://twitter.com/blevined
+  email:             bnlevine1@gmail.com
 
 # Custom vars
 version:             2.0.1
 github:
   repo:              https://github.com/jamigibbs/portfolio
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+twitter:             blevined
+github:              blevined
+instagram:           blevined
 
 # Gems
 gems:
