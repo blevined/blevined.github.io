@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           Ben Levine
+
+# Setup
+title:               Benjamin M. Levine
+tagline:             Computational Social Scientist
+url:                 https://blevined.github.io
+paginate:            1
+baseurl:             "https://blevined.github.io"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Benjamin M. Levine
+  url:               https://twitter.com/blevined
+  email:             bnlevine1@gmail.com
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/blevined/blevined.github.io
+google_analytics:    UA-3363703-15
+twitter:             blevined
+github:              blevined
+instagram:           blevined
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
