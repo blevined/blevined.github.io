@@ -1,3 +1,0 @@
-# Benjamin M. Levine
-
-Aspirant.
