@@ -6,7 +6,7 @@ title:               Benjamin M. Levine
 tagline:             Computational Social Scientist
 url:                 https://blevined.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "https://blevined.github.io"
 
 # Assets
 #
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.1
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/blevined/blevined.github.io
 google_analytics:    UA-3363703-15
 twitter:             blevined
 github:              blevined
